@@ -13,7 +13,7 @@ public class HateDuplicatedNumberTest {
 
 
     @Test
-    public void marathon() {
+    public void test() {
         Assert.assertArrayEquals(hateDuplicatedNumber.solution(numbers1), new int[]{1, 2, 3, 4});
         Assert.assertArrayEquals(hateDuplicatedNumber.solution(numbers2), new int[]{1, 2, 1, 0, 3});
         Assert.assertArrayEquals(hateDuplicatedNumber.solution(numbers3), new int[]{3, 2, 1, 2, 3});
