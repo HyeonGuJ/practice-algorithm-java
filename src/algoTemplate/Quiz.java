@@ -3,8 +3,11 @@ package algoTemplate;
 
 public class Quiz {
 
-	static String solution(String param) {
-		return "answer";
+	static String solution(String param)	{
+		if(param.equals("param")){
+			return "answer";
+		} else {
+			return "wrong answer";
+		}
 	}
-
 }
