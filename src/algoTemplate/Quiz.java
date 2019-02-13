@@ -1,7 +1,7 @@
 package algoTemplate;
 
 
-public class Logics {
+public class Quiz {
 
 	static String solution(String param) {
 		return "answer";
