@@ -1,13 +1,13 @@
-package SumOfTwoNumbers.algoTemplate;
+package SumOfTwoNumbers;
 
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
 
 
-public class QuizTest {
+public class SumOfTwoNumbersQuizTest {
 
-    Quiz quiz = new Quiz();
+    SumOfTwoNumbersQuiz quiz = new SumOfTwoNumbersQuiz();
 
 
 

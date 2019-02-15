@@ -1,7 +1,7 @@
-package SumOfTwoNumbers.algoTemplate;
+package SumOfTwoNumbers;
 
 
-public class Quiz {
+public class SumOfTwoNumbersQuiz {
 
 	public long solution(int a, int b) {
 
